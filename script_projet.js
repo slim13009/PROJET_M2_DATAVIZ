@@ -1,4 +1,6 @@
-//BODY SELECTIONNER
+document.write(d3,version);
+
+/*/BODY SELECTIONNER
 let corps = d3.select ('body');
     
 //CREER LE CANEVAS    
@@ -31,4 +33,4 @@ let losage2 = monsvg
 .attr("points","141,30,101,70,180,70,141,110")
 .style("stroke","orange")
 .style("stroke-width",1)
-.style("fill","orange")
+.style("fill","orange")*/
